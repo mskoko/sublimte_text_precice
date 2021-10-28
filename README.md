@@ -4,7 +4,7 @@ Sublimte Text dodavanje precica;
 
 -> C:\Users\ USERNAME \AppData\Roaming\Sublime Text\Packages\User
 
-filename:       precica
-file extension: .sublime-snippet
+### filename:       precica
+### file extension: .sublime-snippet
 
-example:        precica.sublime-snippet
+#### example:        precica.sublime-snippet
