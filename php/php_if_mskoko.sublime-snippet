@@ -1,0 +1,22 @@
+<!-- Add process -->
+<snippet>
+<content><![CDATA[
+// process name
+if(isset(\$GET['process_name'])) {
+	\$_allOk = false;
+
+
+	$0
+
+
+	// All ok;
+	if(\$_allOk == true) {
+	    echo json_encode(['success', 'Success']); die();
+	} else {
+	    echo json_encode(['error', 'Error']); die();
+	}
+}
+]]></content>
+<tabTrigger>mskoko_if</tabTrigger>
+<!-- <scope>text.html</scope> -->
+</snippet>
